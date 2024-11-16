@@ -1,14 +1,45 @@
 
-📚 Calculadora de Média do Aluno
+# Sistema desktop - Calculadora de Média Escolar
+Este repositório contém uma aplicação desenvolvida em C# com Windows Forms para calcular a média de notas de alunos. A interface é intuitiva, permitindo ao usuário inserir as notas, calcular a média automaticamente e visualizar a situação do aluno (Aprovado ou Reprovado).
 
-Este é um aplicativo simples desenvolvido em C# com Windows Forms, que permite calcular a média de um aluno com base em 4 notas inseridas e exibe a situação do aluno (aprovado ou reprovado) de forma automática.
+# Funcionalidades:
+Tela de Login:
 
-🛠 Funcionalidades
+Sistema de autenticação para acesso ao aplicativo.
+Interface amigável para inserir credenciais.
 
-Inserção de Notas: Permite ao usuário inserir 4 notas do aluno.
+Cálculo de Média:
 
-Cálculo Automático: Calcula a média das notas assim que os valores são inseridos e confirmados.
+Permite inserir até quatro notas.
+Calcula a média automaticamente e exibe a situação do aluno (Aprovado ou Reprovado).
+Interface Simples e Intuitiva:
+Facilidade de navegação para todos os usuários.
 
-Exibição da Situação: Mostra se o aluno foi aprovado ou reprovado com base na média calculada.
+## Tecnologias Utilizadas:
+Linguagem: C#
 
-Interface Amigável: Design simples e intuitivo para facilitar o uso.
+Interface Gráfica: Windows Forms
+
+# Como Executar o Projeto:
+
+Pré-requisitos:
+
+1 - Instale o Visual Studio.
+
+2 - Tenha o .NET Framework configurado.
+
+3 - Abra o projeto no Visual Studio.
+
+4 - Compile e execute.
+
+## Exemplos de Uso:
+Professores e Alunos: Calcular médias escolares de forma rápida.
+
+Estudantes de Programação: Praticar autenticação e manipulação de dados.
+
+## Observações:
+Projeto desenvolvido para aprofundar conhecimentos em C#, Windows Forms, e lógica de autenticação com foco em aplicativos desktop.
+
+## Licença:
+Este projeto está sob a licença MIT.
+
